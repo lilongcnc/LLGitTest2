@@ -22,6 +22,7 @@
     dev1
     dev2
     dev3
+    v0.1-1
 
     // Do any additional setup after loading the view.
 }
