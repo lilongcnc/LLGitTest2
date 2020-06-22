@@ -20,6 +20,7 @@
     master 2
     master 3
     dev1
+    dev2
 
     // Do any additional setup after loading the view.
 }
