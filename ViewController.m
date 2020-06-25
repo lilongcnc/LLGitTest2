@@ -28,7 +28,6 @@
     v0.1-4
     v0.1-5
     v0.1-6
-    v0.1-回滚
 
     // Do any additional setup after loading the view.
 }
